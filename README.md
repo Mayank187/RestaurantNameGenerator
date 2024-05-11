@@ -42,6 +42,6 @@ This module is the backbone of the application, handling the generation of resta
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/restaurant-name-generator.git
-cd restaurant-name-generator
+git clone https://github.com/Mayank187/RestaurantNameGenerator.git
+cd RestaurantNameGenerator
 pip install -r requirements.txt
